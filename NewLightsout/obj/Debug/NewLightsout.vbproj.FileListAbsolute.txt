@@ -1,0 +1,11 @@
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\bin\Debug\NewLightsout.exe.config
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\bin\Debug\NewLightsout.exe
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\bin\Debug\NewLightsout.pdb
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\bin\Debug\NewLightsout.xml
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\obj\Debug\NewLightsout.Resources.resources
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\obj\Debug\NewLightsout.vbproj.GenerateResource.Cache
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\obj\Debug\NewLightsout.vbproj.CoreCompileInputs.cache
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\obj\Debug\NewLightsout.exe
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\obj\Debug\NewLightsout.xml
+c:\users\marcin\source\repos\NewLightsout\NewLightsout\obj\Debug\NewLightsout.pdb
+C:\Users\Marcin\source\repos\NewLightsout\NewLightsout\obj\Debug\NewLightsout.vbprojResolveAssemblyReference.cache
